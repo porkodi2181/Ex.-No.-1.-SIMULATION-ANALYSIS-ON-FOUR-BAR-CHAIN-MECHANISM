@@ -1,6 +1,6 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+## DATE: 24.03.2025
 
 ## AIM:
 
@@ -53,10 +53,14 @@
 
 
 ## Output:
+![Screenshot 2025-04-24 113233](https://github.com/user-attachments/assets/ee894590-b7ba-4273-b721-7114f872197e)
+![Screenshot 2025-04-24 113306](https://github.com/user-attachments/assets/ad2791b3-c583-44f7-992c-efeeeb748523)
 
 
-### Name:
-### Register Number: 
+
+
+### Name:PORKODI B
+### Register Number: 212224240114
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
